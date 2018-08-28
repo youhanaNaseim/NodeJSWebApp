@@ -4,9 +4,10 @@
   "description": "nodejs-webapp",
   "main": "server.js",
   "author": {
-    "name": "alagrawa"
+    "name": "youhana"
   },
   "dependencies": {
-    "applicationinsights": "^1.0.0"
+    "applicationinsights": "^1.0.0",
+    "nodemon": "~1.17.3"
   }
 }
