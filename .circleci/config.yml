@@ -21,4 +21,4 @@ jobs:
 
       - setup_remote_docker
 
-      - run: docker build .
+      - run: docker build -t node-js-webapp-$CIRCLE_BUILD_NUM .
