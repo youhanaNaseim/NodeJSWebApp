@@ -35,4 +35,4 @@ jobs:
       
       - run: npm test
 
-      - run: docker build **//Dockerfile
+      - run: docker build ./Dockerfile
