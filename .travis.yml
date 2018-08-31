@@ -1,1 +1,10 @@
+sudo: required
+
 language: node_js
+
+services:
+  - docker
+
+before_install:
+  - docker build -t node-js-webapp-travisci-$TRAVIS_BUILD_NUMBER .
+  - docker image ls

@@ -16,3 +16,6 @@ Sample Nodejs web application.
 
 [![CircleCI](https://circleci.com/gh/youhanaNaseim/NodeJSWebApp.svg?style=svg)](https://circleci.com/gh/youhanaNaseim/NodeJSWebApp)
 
+## Travis CI 
+
+[![Build Status](https://travis-ci.com/youhanaNaseim/NodeJSWebApp.svg?branch=master)](https://travis-ci.com/youhanaNaseim/NodeJSWebApp)
