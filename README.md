@@ -2,8 +2,6 @@
 
 Sample Nodejs web application.
 
-# CI / CD
-
 ## VSTS
 
 | Environment  | CI  | CD  | Endpoint  | 
@@ -19,3 +17,7 @@ Sample Nodejs web application.
 ## Travis CI 
 
 [![Build Status](https://travis-ci.com/youhanaNaseim/NodeJSWebApp.svg?branch=master)](https://travis-ci.com/youhanaNaseim/NodeJSWebApp)
+
+## Code Fresh 
+
+[![Codefresh build status]( https://g.codefresh.io/api/badges/pipeline/youhananaseim/youhanaNaseim%2FNodeJSWebApp%2FNodeJSWebApp?branch=master&type=cf-1)]( https://g.codefresh.io/repositories/youhanaNaseim/NodeJSWebApp/builds?filter=trigger:build;branch:master;service:5b88b210965caf613948ed1d~NodeJSWebApp)
